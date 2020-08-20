@@ -1,4 +1,4 @@
-## STEPS TO GETTING THE SERVER UP AND RUNNING
+# STEPS TO GETTING THE SERVER UP AND RUNNING
 
 1. If you don't have Node installed issue the below command in a terminal to install
    Homebrew
