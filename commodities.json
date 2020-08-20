@@ -1,0 +1,4376 @@
+[
+  {
+    "COUNTRY": "AD",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.61",
+    "VARIABLE_COST": "1.98"
+  },
+  {
+    "COUNTRY": "AD",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "32.40",
+    "VARIABLE_COST": "1.97"
+  },
+  {
+    "COUNTRY": "AD",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "26.81",
+    "VARIABLE_COST": "0.07"
+  },
+  {
+    "COUNTRY": "AE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.27",
+    "VARIABLE_COST": "2.08"
+  },
+  {
+    "COUNTRY": "AE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "25.97",
+    "VARIABLE_COST": "2.84"
+  },
+  {
+    "COUNTRY": "AE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "30.67",
+    "VARIABLE_COST": "2.44"
+  },
+  {
+    "COUNTRY": "AF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "17.76",
+    "VARIABLE_COST": "1.15"
+  },
+  {
+    "COUNTRY": "AF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "0.99",
+    "VARIABLE_COST": "0.00"
+  },
+  {
+    "COUNTRY": "AF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.88",
+    "VARIABLE_COST": "0.58"
+  },
+  {
+    "COUNTRY": "AG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "29.80",
+    "VARIABLE_COST": "1.82"
+  },
+  {
+    "COUNTRY": "AG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "25.88",
+    "VARIABLE_COST": "1.77"
+  },
+  {
+    "COUNTRY": "AG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.79",
+    "VARIABLE_COST": "0.97"
+  },
+  {
+    "COUNTRY": "AI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "28.78",
+    "VARIABLE_COST": "0.09"
+  },
+  {
+    "COUNTRY": "AI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "23.06",
+    "VARIABLE_COST": "1.29"
+  },
+  {
+    "COUNTRY": "AI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "35.42",
+    "VARIABLE_COST": "0.36"
+  },
+  {
+    "COUNTRY": "AL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "0.81",
+    "VARIABLE_COST": "1.03"
+  },
+  {
+    "COUNTRY": "AL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.50",
+    "VARIABLE_COST": "0.63"
+  },
+  {
+    "COUNTRY": "AL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "1.18",
+    "VARIABLE_COST": "0.65"
+  },
+  {
+    "COUNTRY": "AM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.41",
+    "VARIABLE_COST": "2.53"
+  },
+  {
+    "COUNTRY": "AM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.93",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "AM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "25.40",
+    "VARIABLE_COST": "1.49"
+  },
+  {
+    "COUNTRY": "AN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.24",
+    "VARIABLE_COST": "0.44"
+  },
+  {
+    "COUNTRY": "AN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "10.12",
+    "VARIABLE_COST": "0.34"
+  },
+  {
+    "COUNTRY": "AN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "25.99",
+    "VARIABLE_COST": "1.73"
+  },
+  {
+    "COUNTRY": "AO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.39",
+    "VARIABLE_COST": "2.03"
+  },
+  {
+    "COUNTRY": "AO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.98",
+    "VARIABLE_COST": "1.29"
+  },
+  {
+    "COUNTRY": "AO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "26.45",
+    "VARIABLE_COST": "1.22"
+  },
+  {
+    "COUNTRY": "AQ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "39.98",
+    "VARIABLE_COST": "0.74"
+  },
+  {
+    "COUNTRY": "AQ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "6.21",
+    "VARIABLE_COST": "2.98"
+  },
+  {
+    "COUNTRY": "AQ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.64",
+    "VARIABLE_COST": "1.30"
+  },
+  {
+    "COUNTRY": "AR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "1.99",
+    "VARIABLE_COST": "1.19"
+  },
+  {
+    "COUNTRY": "AR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "29.88",
+    "VARIABLE_COST": "2.12"
+  },
+  {
+    "COUNTRY": "AR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "23.01",
+    "VARIABLE_COST": "2.97"
+  },
+  {
+    "COUNTRY": "AS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "35.74",
+    "VARIABLE_COST": "1.23"
+  },
+  {
+    "COUNTRY": "AS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "8.50",
+    "VARIABLE_COST": "0.12"
+  },
+  {
+    "COUNTRY": "AS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.66",
+    "VARIABLE_COST": "2.47"
+  },
+  {
+    "COUNTRY": "AT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.26",
+    "VARIABLE_COST": "1.88"
+  },
+  {
+    "COUNTRY": "AT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "8.99",
+    "VARIABLE_COST": "1.20"
+  },
+  {
+    "COUNTRY": "AT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "38.17",
+    "VARIABLE_COST": "1.38"
+  },
+  {
+    "COUNTRY": "AU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "26.80",
+    "VARIABLE_COST": "2.48"
+  },
+  {
+    "COUNTRY": "AU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "14.76",
+    "VARIABLE_COST": "2.15"
+  },
+  {
+    "COUNTRY": "AU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "5.09",
+    "VARIABLE_COST": "0.49"
+  },
+  {
+    "COUNTRY": "AW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "9.64",
+    "VARIABLE_COST": "2.21"
+  },
+  {
+    "COUNTRY": "AW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "25.25",
+    "VARIABLE_COST": "0.09"
+  },
+  {
+    "COUNTRY": "AW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.08",
+    "VARIABLE_COST": "2.86"
+  },
+  {
+    "COUNTRY": "AX",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "21.77",
+    "VARIABLE_COST": "0.74"
+  },
+  {
+    "COUNTRY": "AX",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.02",
+    "VARIABLE_COST": "0.06"
+  },
+  {
+    "COUNTRY": "AX",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.84",
+    "VARIABLE_COST": "1.23"
+  },
+  {
+    "COUNTRY": "AZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "23.15",
+    "VARIABLE_COST": "1.84"
+  },
+  {
+    "COUNTRY": "AZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "20.91",
+    "VARIABLE_COST": "0.67"
+  },
+  {
+    "COUNTRY": "AZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.82",
+    "VARIABLE_COST": "2.51"
+  },
+  {
+    "COUNTRY": "BA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "26.10",
+    "VARIABLE_COST": "1.11"
+  },
+  {
+    "COUNTRY": "BA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "10.68",
+    "VARIABLE_COST": "1.01"
+  },
+  {
+    "COUNTRY": "BA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.96",
+    "VARIABLE_COST": "0.54"
+  },
+  {
+    "COUNTRY": "BB",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.76",
+    "VARIABLE_COST": "2.43"
+  },
+  {
+    "COUNTRY": "BB",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.34",
+    "VARIABLE_COST": "2.28"
+  },
+  {
+    "COUNTRY": "BB",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.53",
+    "VARIABLE_COST": "2.03"
+  },
+  {
+    "COUNTRY": "BD",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.02",
+    "VARIABLE_COST": "2.01"
+  },
+  {
+    "COUNTRY": "BD",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "34.51",
+    "VARIABLE_COST": "2.10"
+  },
+  {
+    "COUNTRY": "BD",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "12.56",
+    "VARIABLE_COST": "1.03"
+  },
+  {
+    "COUNTRY": "BE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.63",
+    "VARIABLE_COST": "0.73"
+  },
+  {
+    "COUNTRY": "BE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.50",
+    "VARIABLE_COST": "2.42"
+  },
+  {
+    "COUNTRY": "BE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.69",
+    "VARIABLE_COST": "0.95"
+  },
+  {
+    "COUNTRY": "BF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.17",
+    "VARIABLE_COST": "2.78"
+  },
+  {
+    "COUNTRY": "BF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "3.64",
+    "VARIABLE_COST": "2.62"
+  },
+  {
+    "COUNTRY": "BF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "9.81",
+    "VARIABLE_COST": "2.19"
+  },
+  {
+    "COUNTRY": "BG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "11.09",
+    "VARIABLE_COST": "0.06"
+  },
+  {
+    "COUNTRY": "BG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "10.65",
+    "VARIABLE_COST": "2.67"
+  },
+  {
+    "COUNTRY": "BG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.84",
+    "VARIABLE_COST": "0.43"
+  },
+  {
+    "COUNTRY": "BH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "8.92",
+    "VARIABLE_COST": "0.27"
+  },
+  {
+    "COUNTRY": "BH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.02",
+    "VARIABLE_COST": "2.65"
+  },
+  {
+    "COUNTRY": "BH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.31",
+    "VARIABLE_COST": "1.27"
+  },
+  {
+    "COUNTRY": "BI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "7.98",
+    "VARIABLE_COST": "2.56"
+  },
+  {
+    "COUNTRY": "BI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "8.06",
+    "VARIABLE_COST": "1.65"
+  },
+  {
+    "COUNTRY": "BI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "28.24",
+    "VARIABLE_COST": "1.60"
+  },
+  {
+    "COUNTRY": "BJ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "27.83",
+    "VARIABLE_COST": "0.07"
+  },
+  {
+    "COUNTRY": "BJ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.36",
+    "VARIABLE_COST": "2.50"
+  },
+  {
+    "COUNTRY": "BJ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.06",
+    "VARIABLE_COST": "0.76"
+  },
+  {
+    "COUNTRY": "BM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "29.37",
+    "VARIABLE_COST": "0.96"
+  },
+  {
+    "COUNTRY": "BM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "30.21",
+    "VARIABLE_COST": "0.52"
+  },
+  {
+    "COUNTRY": "BM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "20.04",
+    "VARIABLE_COST": "2.54"
+  },
+  {
+    "COUNTRY": "BN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.22",
+    "VARIABLE_COST": "2.21"
+  },
+  {
+    "COUNTRY": "BN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.59",
+    "VARIABLE_COST": "2.27"
+  },
+  {
+    "COUNTRY": "BN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.68",
+    "VARIABLE_COST": "1.65"
+  },
+  {
+    "COUNTRY": "BO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "33.62",
+    "VARIABLE_COST": "0.05"
+  },
+  {
+    "COUNTRY": "BO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "16.33",
+    "VARIABLE_COST": "2.93"
+  },
+  {
+    "COUNTRY": "BO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.12",
+    "VARIABLE_COST": "2.77"
+  },
+  {
+    "COUNTRY": "BR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "39.15",
+    "VARIABLE_COST": "0.24"
+  },
+  {
+    "COUNTRY": "BR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "24.42",
+    "VARIABLE_COST": "2.46"
+  },
+  {
+    "COUNTRY": "BR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.68",
+    "VARIABLE_COST": "1.26"
+  },
+  {
+    "COUNTRY": "BS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "7.49",
+    "VARIABLE_COST": "1.90"
+  },
+  {
+    "COUNTRY": "BS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.34",
+    "VARIABLE_COST": "1.85"
+  },
+  {
+    "COUNTRY": "BS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "8.67",
+    "VARIABLE_COST": "1.05"
+  },
+  {
+    "COUNTRY": "BT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.70",
+    "VARIABLE_COST": "1.02"
+  },
+  {
+    "COUNTRY": "BT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.77",
+    "VARIABLE_COST": "1.62"
+  },
+  {
+    "COUNTRY": "BT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.70",
+    "VARIABLE_COST": "2.06"
+  },
+  {
+    "COUNTRY": "BV",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "11.25",
+    "VARIABLE_COST": "2.19"
+  },
+  {
+    "COUNTRY": "BV",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "37.96",
+    "VARIABLE_COST": "1.44"
+  },
+  {
+    "COUNTRY": "BV",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "5.31",
+    "VARIABLE_COST": "0.08"
+  },
+  {
+    "COUNTRY": "BW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "21.79",
+    "VARIABLE_COST": "0.40"
+  },
+  {
+    "COUNTRY": "BW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "32.78",
+    "VARIABLE_COST": "2.82"
+  },
+  {
+    "COUNTRY": "BW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "28.75",
+    "VARIABLE_COST": "2.89"
+  },
+  {
+    "COUNTRY": "BY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "11.49",
+    "VARIABLE_COST": "0.15"
+  },
+  {
+    "COUNTRY": "BY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "7.71",
+    "VARIABLE_COST": "1.76"
+  },
+  {
+    "COUNTRY": "BY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "12.72",
+    "VARIABLE_COST": "1.49"
+  },
+  {
+    "COUNTRY": "BZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "35.72",
+    "VARIABLE_COST": "0.72"
+  },
+  {
+    "COUNTRY": "BZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.33",
+    "VARIABLE_COST": "1.36"
+  },
+  {
+    "COUNTRY": "BZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.23",
+    "VARIABLE_COST": "0.23"
+  },
+  {
+    "COUNTRY": "CA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "13.22",
+    "VARIABLE_COST": "2.01"
+  },
+  {
+    "COUNTRY": "CA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "35.06",
+    "VARIABLE_COST": "2.15"
+  },
+  {
+    "COUNTRY": "CA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.55",
+    "VARIABLE_COST": "0.04"
+  },
+  {
+    "COUNTRY": "CC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "35.73",
+    "VARIABLE_COST": "1.51"
+  },
+  {
+    "COUNTRY": "CC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "34.24",
+    "VARIABLE_COST": "0.24"
+  },
+  {
+    "COUNTRY": "CC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.99",
+    "VARIABLE_COST": "1.11"
+  },
+  {
+    "COUNTRY": "CD",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.08",
+    "VARIABLE_COST": "2.29"
+  },
+  {
+    "COUNTRY": "CD",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.46",
+    "VARIABLE_COST": "1.48"
+  },
+  {
+    "COUNTRY": "CD",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.36",
+    "VARIABLE_COST": "2.00"
+  },
+  {
+    "COUNTRY": "CF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "33.06",
+    "VARIABLE_COST": "0.39"
+  },
+  {
+    "COUNTRY": "CF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "0.94",
+    "VARIABLE_COST": "0.33"
+  },
+  {
+    "COUNTRY": "CF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.81",
+    "VARIABLE_COST": "2.10"
+  },
+  {
+    "COUNTRY": "CG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.67",
+    "VARIABLE_COST": "1.01"
+  },
+  {
+    "COUNTRY": "CG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.15",
+    "VARIABLE_COST": "2.37"
+  },
+  {
+    "COUNTRY": "CG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "30.56",
+    "VARIABLE_COST": "0.03"
+  },
+  {
+    "COUNTRY": "CH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "3.75",
+    "VARIABLE_COST": "1.40"
+  },
+  {
+    "COUNTRY": "CH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.65",
+    "VARIABLE_COST": "1.42"
+  },
+  {
+    "COUNTRY": "CH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.66",
+    "VARIABLE_COST": "0.36"
+  },
+  {
+    "COUNTRY": "CI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.44",
+    "VARIABLE_COST": "1.84"
+  },
+  {
+    "COUNTRY": "CI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.95",
+    "VARIABLE_COST": "1.98"
+  },
+  {
+    "COUNTRY": "CI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.38",
+    "VARIABLE_COST": "2.70"
+  },
+  {
+    "COUNTRY": "CK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "0.81",
+    "VARIABLE_COST": "0.37"
+  },
+  {
+    "COUNTRY": "CK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.62",
+    "VARIABLE_COST": "2.90"
+  },
+  {
+    "COUNTRY": "CK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "9.45",
+    "VARIABLE_COST": "2.46"
+  },
+  {
+    "COUNTRY": "CL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "3.35",
+    "VARIABLE_COST": "2.48"
+  },
+  {
+    "COUNTRY": "CL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "7.38",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "CL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.60",
+    "VARIABLE_COST": "2.28"
+  },
+  {
+    "COUNTRY": "CM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "27.22",
+    "VARIABLE_COST": "1.75"
+  },
+  {
+    "COUNTRY": "CM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "33.13",
+    "VARIABLE_COST": "0.44"
+  },
+  {
+    "COUNTRY": "CM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "21.83",
+    "VARIABLE_COST": "0.94"
+  },
+  {
+    "COUNTRY": "CN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "10.15",
+    "VARIABLE_COST": "0.21"
+  },
+  {
+    "COUNTRY": "CN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.02",
+    "VARIABLE_COST": "0.22"
+  },
+  {
+    "COUNTRY": "CN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.37",
+    "VARIABLE_COST": "2.05"
+  },
+  {
+    "COUNTRY": "CO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "18.38",
+    "VARIABLE_COST": "0.13"
+  },
+  {
+    "COUNTRY": "CO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.64",
+    "VARIABLE_COST": "1.66"
+  },
+  {
+    "COUNTRY": "CO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "28.53",
+    "VARIABLE_COST": "0.59"
+  },
+  {
+    "COUNTRY": "CR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "33.66",
+    "VARIABLE_COST": "2.62"
+  },
+  {
+    "COUNTRY": "CR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "2.28",
+    "VARIABLE_COST": "2.12"
+  },
+  {
+    "COUNTRY": "CR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "29.53",
+    "VARIABLE_COST": "2.69"
+  },
+  {
+    "COUNTRY": "CS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.18",
+    "VARIABLE_COST": "2.98"
+  },
+  {
+    "COUNTRY": "CS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "33.76",
+    "VARIABLE_COST": "2.87"
+  },
+  {
+    "COUNTRY": "CS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "19.46",
+    "VARIABLE_COST": "1.57"
+  },
+  {
+    "COUNTRY": "CU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.60",
+    "VARIABLE_COST": "1.38"
+  },
+  {
+    "COUNTRY": "CU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "20.15",
+    "VARIABLE_COST": "2.13"
+  },
+  {
+    "COUNTRY": "CU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "4.28",
+    "VARIABLE_COST": "0.79"
+  },
+  {
+    "COUNTRY": "CV",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "39.11",
+    "VARIABLE_COST": "2.75"
+  },
+  {
+    "COUNTRY": "CV",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.88",
+    "VARIABLE_COST": "2.79"
+  },
+  {
+    "COUNTRY": "CV",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.44",
+    "VARIABLE_COST": "2.54"
+  },
+  {
+    "COUNTRY": "CX",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.68",
+    "VARIABLE_COST": "2.11"
+  },
+  {
+    "COUNTRY": "CX",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "3.95",
+    "VARIABLE_COST": "0.71"
+  },
+  {
+    "COUNTRY": "CX",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "19.02",
+    "VARIABLE_COST": "1.03"
+  },
+  {
+    "COUNTRY": "CY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "35.57",
+    "VARIABLE_COST": "1.80"
+  },
+  {
+    "COUNTRY": "CY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.34",
+    "VARIABLE_COST": "1.30"
+  },
+  {
+    "COUNTRY": "CY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "27.93",
+    "VARIABLE_COST": "0.87"
+  },
+  {
+    "COUNTRY": "CZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.60",
+    "VARIABLE_COST": "2.54"
+  },
+  {
+    "COUNTRY": "CZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "39.91",
+    "VARIABLE_COST": "2.67"
+  },
+  {
+    "COUNTRY": "CZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "38.82",
+    "VARIABLE_COST": "1.98"
+  },
+  {
+    "COUNTRY": "DE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "11.08",
+    "VARIABLE_COST": "2.62"
+  },
+  {
+    "COUNTRY": "DE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "30.90",
+    "VARIABLE_COST": "1.02"
+  },
+  {
+    "COUNTRY": "DE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.31",
+    "VARIABLE_COST": "1.33"
+  },
+  {
+    "COUNTRY": "DJ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "39.26",
+    "VARIABLE_COST": "2.44"
+  },
+  {
+    "COUNTRY": "DJ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "17.26",
+    "VARIABLE_COST": "0.13"
+  },
+  {
+    "COUNTRY": "DJ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.60",
+    "VARIABLE_COST": "1.79"
+  },
+  {
+    "COUNTRY": "DK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "9.09",
+    "VARIABLE_COST": "1.54"
+  },
+  {
+    "COUNTRY": "DK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "14.02",
+    "VARIABLE_COST": "0.12"
+  },
+  {
+    "COUNTRY": "DK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "25.71",
+    "VARIABLE_COST": "0.29"
+  },
+  {
+    "COUNTRY": "DM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "28.72",
+    "VARIABLE_COST": "1.23"
+  },
+  {
+    "COUNTRY": "DM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.85",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "DM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "8.57",
+    "VARIABLE_COST": "1.92"
+  },
+  {
+    "COUNTRY": "DO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "33.46",
+    "VARIABLE_COST": "2.20"
+  },
+  {
+    "COUNTRY": "DO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "29.08",
+    "VARIABLE_COST": "0.85"
+  },
+  {
+    "COUNTRY": "DO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "29.28",
+    "VARIABLE_COST": "1.98"
+  },
+  {
+    "COUNTRY": "DZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.24",
+    "VARIABLE_COST": "0.80"
+  },
+  {
+    "COUNTRY": "DZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "27.41",
+    "VARIABLE_COST": "1.97"
+  },
+  {
+    "COUNTRY": "DZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.24",
+    "VARIABLE_COST": "2.32"
+  },
+  {
+    "COUNTRY": "EC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.24",
+    "VARIABLE_COST": "1.75"
+  },
+  {
+    "COUNTRY": "EC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "2.29",
+    "VARIABLE_COST": "1.84"
+  },
+  {
+    "COUNTRY": "EC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "24.77",
+    "VARIABLE_COST": "0.84"
+  },
+  {
+    "COUNTRY": "EE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "28.24",
+    "VARIABLE_COST": "0.32"
+  },
+  {
+    "COUNTRY": "EE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.83",
+    "VARIABLE_COST": "1.96"
+  },
+  {
+    "COUNTRY": "EE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.07",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "EG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.75",
+    "VARIABLE_COST": "1.61"
+  },
+  {
+    "COUNTRY": "EG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "6.00",
+    "VARIABLE_COST": "0.84"
+  },
+  {
+    "COUNTRY": "EG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "7.23",
+    "VARIABLE_COST": "2.87"
+  },
+  {
+    "COUNTRY": "EH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "16.05",
+    "VARIABLE_COST": "0.60"
+  },
+  {
+    "COUNTRY": "EH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.62",
+    "VARIABLE_COST": "1.98"
+  },
+  {
+    "COUNTRY": "EH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "2.31",
+    "VARIABLE_COST": "0.44"
+  },
+  {
+    "COUNTRY": "ER",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "30.68",
+    "VARIABLE_COST": "1.66"
+  },
+  {
+    "COUNTRY": "ER",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "24.99",
+    "VARIABLE_COST": "0.13"
+  },
+  {
+    "COUNTRY": "ER",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.03",
+    "VARIABLE_COST": "0.88"
+  },
+  {
+    "COUNTRY": "ES",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "29.06",
+    "VARIABLE_COST": "0.19"
+  },
+  {
+    "COUNTRY": "ES",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.63",
+    "VARIABLE_COST": "0.39"
+  },
+  {
+    "COUNTRY": "ES",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "27.75",
+    "VARIABLE_COST": "1.87"
+  },
+  {
+    "COUNTRY": "ET",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "10.76",
+    "VARIABLE_COST": "0.81"
+  },
+  {
+    "COUNTRY": "ET",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "26.35",
+    "VARIABLE_COST": "1.66"
+  },
+  {
+    "COUNTRY": "ET",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "35.19",
+    "VARIABLE_COST": "1.61"
+  },
+  {
+    "COUNTRY": "FI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "7.98",
+    "VARIABLE_COST": "2.87"
+  },
+  {
+    "COUNTRY": "FI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "5.16",
+    "VARIABLE_COST": "2.87"
+  },
+  {
+    "COUNTRY": "FI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "9.31",
+    "VARIABLE_COST": "2.27"
+  },
+  {
+    "COUNTRY": "FJ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.90",
+    "VARIABLE_COST": "0.29"
+  },
+  {
+    "COUNTRY": "FJ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "10.33",
+    "VARIABLE_COST": "2.10"
+  },
+  {
+    "COUNTRY": "FJ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.64",
+    "VARIABLE_COST": "2.68"
+  },
+  {
+    "COUNTRY": "FK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "0.36",
+    "VARIABLE_COST": "0.33"
+  },
+  {
+    "COUNTRY": "FK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "33.41",
+    "VARIABLE_COST": "2.52"
+  },
+  {
+    "COUNTRY": "FK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "25.20",
+    "VARIABLE_COST": "0.66"
+  },
+  {
+    "COUNTRY": "FM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "37.39",
+    "VARIABLE_COST": "1.18"
+  },
+  {
+    "COUNTRY": "FM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "5.93",
+    "VARIABLE_COST": "0.27"
+  },
+  {
+    "COUNTRY": "FM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.91",
+    "VARIABLE_COST": "1.82"
+  },
+  {
+    "COUNTRY": "FO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "27.39",
+    "VARIABLE_COST": "0.20"
+  },
+  {
+    "COUNTRY": "FO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.96",
+    "VARIABLE_COST": "2.53"
+  },
+  {
+    "COUNTRY": "FO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "7.44",
+    "VARIABLE_COST": "1.86"
+  },
+  {
+    "COUNTRY": "FR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "17.65",
+    "VARIABLE_COST": "0.98"
+  },
+  {
+    "COUNTRY": "FR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.61",
+    "VARIABLE_COST": "2.05"
+  },
+  {
+    "COUNTRY": "FR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "21.79",
+    "VARIABLE_COST": "0.11"
+  },
+  {
+    "COUNTRY": "GA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "12.91",
+    "VARIABLE_COST": "1.43"
+  },
+  {
+    "COUNTRY": "GA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "31.15",
+    "VARIABLE_COST": "1.12"
+  },
+  {
+    "COUNTRY": "GA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.86",
+    "VARIABLE_COST": "0.76"
+  },
+  {
+    "COUNTRY": "GB",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "33.08",
+    "VARIABLE_COST": "0.44"
+  },
+  {
+    "COUNTRY": "GB",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "5.96",
+    "VARIABLE_COST": "2.58"
+  },
+  {
+    "COUNTRY": "GB",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "9.86",
+    "VARIABLE_COST": "0.03"
+  },
+  {
+    "COUNTRY": "GD",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.31",
+    "VARIABLE_COST": "2.71"
+  },
+  {
+    "COUNTRY": "GD",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.37",
+    "VARIABLE_COST": "0.61"
+  },
+  {
+    "COUNTRY": "GD",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "17.46",
+    "VARIABLE_COST": "0.32"
+  },
+  {
+    "COUNTRY": "GE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "12.81",
+    "VARIABLE_COST": "0.80"
+  },
+  {
+    "COUNTRY": "GE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "4.89",
+    "VARIABLE_COST": "2.88"
+  },
+  {
+    "COUNTRY": "GE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "26.92",
+    "VARIABLE_COST": "0.29"
+  },
+  {
+    "COUNTRY": "GF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "17.07",
+    "VARIABLE_COST": "0.76"
+  },
+  {
+    "COUNTRY": "GF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.58",
+    "VARIABLE_COST": "0.85"
+  },
+  {
+    "COUNTRY": "GF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.25",
+    "VARIABLE_COST": "1.87"
+  },
+  {
+    "COUNTRY": "GG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "36.07",
+    "VARIABLE_COST": "2.68"
+  },
+  {
+    "COUNTRY": "GG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.81",
+    "VARIABLE_COST": "2.05"
+  },
+  {
+    "COUNTRY": "GG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.07",
+    "VARIABLE_COST": "2.32"
+  },
+  {
+    "COUNTRY": "GH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.78",
+    "VARIABLE_COST": "1.98"
+  },
+  {
+    "COUNTRY": "GH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "39.93",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "GH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.53",
+    "VARIABLE_COST": "1.01"
+  },
+  {
+    "COUNTRY": "GI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.79",
+    "VARIABLE_COST": "0.98"
+  },
+  {
+    "COUNTRY": "GI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "20.69",
+    "VARIABLE_COST": "0.83"
+  },
+  {
+    "COUNTRY": "GI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.30",
+    "VARIABLE_COST": "2.48"
+  },
+  {
+    "COUNTRY": "GL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.54",
+    "VARIABLE_COST": "0.08"
+  },
+  {
+    "COUNTRY": "GL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.02",
+    "VARIABLE_COST": "2.81"
+  },
+  {
+    "COUNTRY": "GL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.24",
+    "VARIABLE_COST": "0.44"
+  },
+  {
+    "COUNTRY": "GM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.38",
+    "VARIABLE_COST": "0.66"
+  },
+  {
+    "COUNTRY": "GM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "31.73",
+    "VARIABLE_COST": "1.67"
+  },
+  {
+    "COUNTRY": "GM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "19.35",
+    "VARIABLE_COST": "0.36"
+  },
+  {
+    "COUNTRY": "GN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "1.87",
+    "VARIABLE_COST": "1.79"
+  },
+  {
+    "COUNTRY": "GN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "19.99",
+    "VARIABLE_COST": "2.15"
+  },
+  {
+    "COUNTRY": "GN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "37.98",
+    "VARIABLE_COST": "1.75"
+  },
+  {
+    "COUNTRY": "GP",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.34",
+    "VARIABLE_COST": "0.79"
+  },
+  {
+    "COUNTRY": "GP",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "5.64",
+    "VARIABLE_COST": "2.61"
+  },
+  {
+    "COUNTRY": "GP",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.69",
+    "VARIABLE_COST": "2.43"
+  },
+  {
+    "COUNTRY": "GQ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "13.52",
+    "VARIABLE_COST": "2.13"
+  },
+  {
+    "COUNTRY": "GQ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.62",
+    "VARIABLE_COST": "1.64"
+  },
+  {
+    "COUNTRY": "GQ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.54",
+    "VARIABLE_COST": "1.37"
+  },
+  {
+    "COUNTRY": "GR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "12.92",
+    "VARIABLE_COST": "0.70"
+  },
+  {
+    "COUNTRY": "GR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "26.59",
+    "VARIABLE_COST": "0.65"
+  },
+  {
+    "COUNTRY": "GR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.75",
+    "VARIABLE_COST": "1.36"
+  },
+  {
+    "COUNTRY": "GS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "13.49",
+    "VARIABLE_COST": "1.24"
+  },
+  {
+    "COUNTRY": "GS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.44",
+    "VARIABLE_COST": "2.88"
+  },
+  {
+    "COUNTRY": "GS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.72",
+    "VARIABLE_COST": "1.34"
+  },
+  {
+    "COUNTRY": "GT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "30.16",
+    "VARIABLE_COST": "1.29"
+  },
+  {
+    "COUNTRY": "GT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.96",
+    "VARIABLE_COST": "2.58"
+  },
+  {
+    "COUNTRY": "GT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.04",
+    "VARIABLE_COST": "1.06"
+  },
+  {
+    "COUNTRY": "GU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "8.13",
+    "VARIABLE_COST": "2.59"
+  },
+  {
+    "COUNTRY": "GU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "11.76",
+    "VARIABLE_COST": "1.41"
+  },
+  {
+    "COUNTRY": "GU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.49",
+    "VARIABLE_COST": "0.25"
+  },
+  {
+    "COUNTRY": "GW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "37.41",
+    "VARIABLE_COST": "1.09"
+  },
+  {
+    "COUNTRY": "GW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.68",
+    "VARIABLE_COST": "2.33"
+  },
+  {
+    "COUNTRY": "GW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.72",
+    "VARIABLE_COST": "2.52"
+  },
+  {
+    "COUNTRY": "GY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "21.47",
+    "VARIABLE_COST": "1.81"
+  },
+  {
+    "COUNTRY": "GY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.18",
+    "VARIABLE_COST": "1.32"
+  },
+  {
+    "COUNTRY": "GY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.62",
+    "VARIABLE_COST": "0.84"
+  },
+  {
+    "COUNTRY": "HK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "16.66",
+    "VARIABLE_COST": "1.55"
+  },
+  {
+    "COUNTRY": "HK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "14.03",
+    "VARIABLE_COST": "1.03"
+  },
+  {
+    "COUNTRY": "HK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "30.18",
+    "VARIABLE_COST": "2.31"
+  },
+  {
+    "COUNTRY": "HM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.05",
+    "VARIABLE_COST": "2.18"
+  },
+  {
+    "COUNTRY": "HM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.38",
+    "VARIABLE_COST": "0.59"
+  },
+  {
+    "COUNTRY": "HM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.17",
+    "VARIABLE_COST": "1.61"
+  },
+  {
+    "COUNTRY": "HN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "8.79",
+    "VARIABLE_COST": "0.55"
+  },
+  {
+    "COUNTRY": "HN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.36",
+    "VARIABLE_COST": "2.26"
+  },
+  {
+    "COUNTRY": "HN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "12.36",
+    "VARIABLE_COST": "1.78"
+  },
+  {
+    "COUNTRY": "HR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "36.59",
+    "VARIABLE_COST": "2.91"
+  },
+  {
+    "COUNTRY": "HR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "30.16",
+    "VARIABLE_COST": "1.42"
+  },
+  {
+    "COUNTRY": "HR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "24.82",
+    "VARIABLE_COST": "0.06"
+  },
+  {
+    "COUNTRY": "HT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "10.93",
+    "VARIABLE_COST": "2.39"
+  },
+  {
+    "COUNTRY": "HT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.73",
+    "VARIABLE_COST": "2.20"
+  },
+  {
+    "COUNTRY": "HT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "10.15",
+    "VARIABLE_COST": "0.78"
+  },
+  {
+    "COUNTRY": "HU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "26.91",
+    "VARIABLE_COST": "1.93"
+  },
+  {
+    "COUNTRY": "HU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "2.40",
+    "VARIABLE_COST": "1.50"
+  },
+  {
+    "COUNTRY": "HU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.25",
+    "VARIABLE_COST": "0.56"
+  },
+  {
+    "COUNTRY": "ID",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "10.97",
+    "VARIABLE_COST": "0.91"
+  },
+  {
+    "COUNTRY": "ID",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "0.97",
+    "VARIABLE_COST": "2.29"
+  },
+  {
+    "COUNTRY": "ID",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "4.30",
+    "VARIABLE_COST": "2.23"
+  },
+  {
+    "COUNTRY": "IE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.24",
+    "VARIABLE_COST": "1.98"
+  },
+  {
+    "COUNTRY": "IE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.50",
+    "VARIABLE_COST": "0.37"
+  },
+  {
+    "COUNTRY": "IE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "24.55",
+    "VARIABLE_COST": "0.53"
+  },
+  {
+    "COUNTRY": "IL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "38.99",
+    "VARIABLE_COST": "0.10"
+  },
+  {
+    "COUNTRY": "IL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "39.27",
+    "VARIABLE_COST": "0.10"
+  },
+  {
+    "COUNTRY": "IL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "29.39",
+    "VARIABLE_COST": "1.81"
+  },
+  {
+    "COUNTRY": "IM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "17.74",
+    "VARIABLE_COST": "2.55"
+  },
+  {
+    "COUNTRY": "IM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "39.73",
+    "VARIABLE_COST": "2.63"
+  },
+  {
+    "COUNTRY": "IM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.37",
+    "VARIABLE_COST": "0.64"
+  },
+  {
+    "COUNTRY": "IN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "21.36",
+    "VARIABLE_COST": "1.50"
+  },
+  {
+    "COUNTRY": "IN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "6.29",
+    "VARIABLE_COST": "2.00"
+  },
+  {
+    "COUNTRY": "IN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "19.02",
+    "VARIABLE_COST": "1.40"
+  },
+  {
+    "COUNTRY": "IO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.69",
+    "VARIABLE_COST": "0.72"
+  },
+  {
+    "COUNTRY": "IO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.35",
+    "VARIABLE_COST": "2.76"
+  },
+  {
+    "COUNTRY": "IO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.72",
+    "VARIABLE_COST": "0.50"
+  },
+  {
+    "COUNTRY": "IQ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "30.16",
+    "VARIABLE_COST": "0.67"
+  },
+  {
+    "COUNTRY": "IQ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "27.43",
+    "VARIABLE_COST": "0.20"
+  },
+  {
+    "COUNTRY": "IQ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "9.22",
+    "VARIABLE_COST": "0.54"
+  },
+  {
+    "COUNTRY": "IR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "36.48",
+    "VARIABLE_COST": "0.94"
+  },
+  {
+    "COUNTRY": "IR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "26.40",
+    "VARIABLE_COST": "1.70"
+  },
+  {
+    "COUNTRY": "IR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "1.16",
+    "VARIABLE_COST": "0.53"
+  },
+  {
+    "COUNTRY": "IS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "12.19",
+    "VARIABLE_COST": "2.68"
+  },
+  {
+    "COUNTRY": "IS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.89",
+    "VARIABLE_COST": "0.42"
+  },
+  {
+    "COUNTRY": "IS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.09",
+    "VARIABLE_COST": "0.97"
+  },
+  {
+    "COUNTRY": "IT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "9.12",
+    "VARIABLE_COST": "2.34"
+  },
+  {
+    "COUNTRY": "IT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.05",
+    "VARIABLE_COST": "1.73"
+  },
+  {
+    "COUNTRY": "IT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "21.89",
+    "VARIABLE_COST": "2.65"
+  },
+  {
+    "COUNTRY": "JE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "30.89",
+    "VARIABLE_COST": "0.30"
+  },
+  {
+    "COUNTRY": "JE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "27.08",
+    "VARIABLE_COST": "2.17"
+  },
+  {
+    "COUNTRY": "JE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "19.53",
+    "VARIABLE_COST": "0.55"
+  },
+  {
+    "COUNTRY": "JM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "11.55",
+    "VARIABLE_COST": "0.67"
+  },
+  {
+    "COUNTRY": "JM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.62",
+    "VARIABLE_COST": "2.20"
+  },
+  {
+    "COUNTRY": "JM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.49",
+    "VARIABLE_COST": "1.08"
+  },
+  {
+    "COUNTRY": "JO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.38",
+    "VARIABLE_COST": "2.87"
+  },
+  {
+    "COUNTRY": "JO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "4.27",
+    "VARIABLE_COST": "0.07"
+  },
+  {
+    "COUNTRY": "JO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.04",
+    "VARIABLE_COST": "0.30"
+  },
+  {
+    "COUNTRY": "JP",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.00",
+    "VARIABLE_COST": "2.71"
+  },
+  {
+    "COUNTRY": "JP",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "12.73",
+    "VARIABLE_COST": "2.22"
+  },
+  {
+    "COUNTRY": "JP",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "1.99",
+    "VARIABLE_COST": "1.31"
+  },
+  {
+    "COUNTRY": "KE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "8.87",
+    "VARIABLE_COST": "1.69"
+  },
+  {
+    "COUNTRY": "KE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.81",
+    "VARIABLE_COST": "0.24"
+  },
+  {
+    "COUNTRY": "KE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.93",
+    "VARIABLE_COST": "2.61"
+  },
+  {
+    "COUNTRY": "KG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "9.75",
+    "VARIABLE_COST": "2.62"
+  },
+  {
+    "COUNTRY": "KG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "39.86",
+    "VARIABLE_COST": "1.28"
+  },
+  {
+    "COUNTRY": "KG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.19",
+    "VARIABLE_COST": "2.53"
+  },
+  {
+    "COUNTRY": "KH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "31.28",
+    "VARIABLE_COST": "1.37"
+  },
+  {
+    "COUNTRY": "KH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "11.67",
+    "VARIABLE_COST": "0.74"
+  },
+  {
+    "COUNTRY": "KH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "13.44",
+    "VARIABLE_COST": "0.10"
+  },
+  {
+    "COUNTRY": "KI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.38",
+    "VARIABLE_COST": "2.92"
+  },
+  {
+    "COUNTRY": "KI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "3.16",
+    "VARIABLE_COST": "0.02"
+  },
+  {
+    "COUNTRY": "KI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "13.67",
+    "VARIABLE_COST": "1.76"
+  },
+  {
+    "COUNTRY": "KM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.48",
+    "VARIABLE_COST": "1.68"
+  },
+  {
+    "COUNTRY": "KM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "25.52",
+    "VARIABLE_COST": "0.04"
+  },
+  {
+    "COUNTRY": "KM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.16",
+    "VARIABLE_COST": "1.24"
+  },
+  {
+    "COUNTRY": "KN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "1.28",
+    "VARIABLE_COST": "2.51"
+  },
+  {
+    "COUNTRY": "KN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "23.07",
+    "VARIABLE_COST": "2.02"
+  },
+  {
+    "COUNTRY": "KN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.77",
+    "VARIABLE_COST": "1.78"
+  },
+  {
+    "COUNTRY": "KP",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.54",
+    "VARIABLE_COST": "1.96"
+  },
+  {
+    "COUNTRY": "KP",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "32.44",
+    "VARIABLE_COST": "0.50"
+  },
+  {
+    "COUNTRY": "KP",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "26.24",
+    "VARIABLE_COST": "1.99"
+  },
+  {
+    "COUNTRY": "KR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "18.52",
+    "VARIABLE_COST": "1.13"
+  },
+  {
+    "COUNTRY": "KR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "13.05",
+    "VARIABLE_COST": "2.80"
+  },
+  {
+    "COUNTRY": "KR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "12.09",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "KW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "35.33",
+    "VARIABLE_COST": "2.66"
+  },
+  {
+    "COUNTRY": "KW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "13.77",
+    "VARIABLE_COST": "0.10"
+  },
+  {
+    "COUNTRY": "KW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "15.14",
+    "VARIABLE_COST": "1.10"
+  },
+  {
+    "COUNTRY": "KY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "11.73",
+    "VARIABLE_COST": "2.69"
+  },
+  {
+    "COUNTRY": "KY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.51",
+    "VARIABLE_COST": "1.84"
+  },
+  {
+    "COUNTRY": "KY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "32.48",
+    "VARIABLE_COST": "1.70"
+  },
+  {
+    "COUNTRY": "KZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.98",
+    "VARIABLE_COST": "1.41"
+  },
+  {
+    "COUNTRY": "KZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "16.81",
+    "VARIABLE_COST": "2.02"
+  },
+  {
+    "COUNTRY": "KZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "5.18",
+    "VARIABLE_COST": "2.71"
+  },
+  {
+    "COUNTRY": "LA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.32",
+    "VARIABLE_COST": "1.28"
+  },
+  {
+    "COUNTRY": "LA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "32.64",
+    "VARIABLE_COST": "2.88"
+  },
+  {
+    "COUNTRY": "LA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.48",
+    "VARIABLE_COST": "2.69"
+  },
+  {
+    "COUNTRY": "LB",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.47",
+    "VARIABLE_COST": "2.47"
+  },
+  {
+    "COUNTRY": "LB",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "33.05",
+    "VARIABLE_COST": "1.97"
+  },
+  {
+    "COUNTRY": "LB",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.56",
+    "VARIABLE_COST": "1.27"
+  },
+  {
+    "COUNTRY": "LC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "6.77",
+    "VARIABLE_COST": "2.30"
+  },
+  {
+    "COUNTRY": "LC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "25.82",
+    "VARIABLE_COST": "0.94"
+  },
+  {
+    "COUNTRY": "LC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "17.81",
+    "VARIABLE_COST": "1.38"
+  },
+  {
+    "COUNTRY": "LI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "35.02",
+    "VARIABLE_COST": "1.32"
+  },
+  {
+    "COUNTRY": "LI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "27.19",
+    "VARIABLE_COST": "1.56"
+  },
+  {
+    "COUNTRY": "LI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "10.62",
+    "VARIABLE_COST": "1.38"
+  },
+  {
+    "COUNTRY": "LK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "7.14",
+    "VARIABLE_COST": "2.06"
+  },
+  {
+    "COUNTRY": "LK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.12",
+    "VARIABLE_COST": "1.20"
+  },
+  {
+    "COUNTRY": "LK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "38.09",
+    "VARIABLE_COST": "2.67"
+  },
+  {
+    "COUNTRY": "LR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.13",
+    "VARIABLE_COST": "0.35"
+  },
+  {
+    "COUNTRY": "LR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "7.53",
+    "VARIABLE_COST": "1.43"
+  },
+  {
+    "COUNTRY": "LR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "8.98",
+    "VARIABLE_COST": "2.66"
+  },
+  {
+    "COUNTRY": "LS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "12.05",
+    "VARIABLE_COST": "0.59"
+  },
+  {
+    "COUNTRY": "LS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.71",
+    "VARIABLE_COST": "0.85"
+  },
+  {
+    "COUNTRY": "LS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "15.21",
+    "VARIABLE_COST": "0.91"
+  },
+  {
+    "COUNTRY": "LT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "6.64",
+    "VARIABLE_COST": "2.11"
+  },
+  {
+    "COUNTRY": "LT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "6.03",
+    "VARIABLE_COST": "0.62"
+  },
+  {
+    "COUNTRY": "LT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "35.52",
+    "VARIABLE_COST": "2.93"
+  },
+  {
+    "COUNTRY": "LU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "22.47",
+    "VARIABLE_COST": "0.83"
+  },
+  {
+    "COUNTRY": "LU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "16.45",
+    "VARIABLE_COST": "0.49"
+  },
+  {
+    "COUNTRY": "LU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "5.32",
+    "VARIABLE_COST": "1.32"
+  },
+  {
+    "COUNTRY": "LV",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "3.99",
+    "VARIABLE_COST": "0.98"
+  },
+  {
+    "COUNTRY": "LV",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "27.99",
+    "VARIABLE_COST": "2.62"
+  },
+  {
+    "COUNTRY": "LV",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "14.21",
+    "VARIABLE_COST": "2.18"
+  },
+  {
+    "COUNTRY": "LY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "37.80",
+    "VARIABLE_COST": "0.54"
+  },
+  {
+    "COUNTRY": "LY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.15",
+    "VARIABLE_COST": "0.48"
+  },
+  {
+    "COUNTRY": "LY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "24.86",
+    "VARIABLE_COST": "0.17"
+  },
+  {
+    "COUNTRY": "MA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.55",
+    "VARIABLE_COST": "1.91"
+  },
+  {
+    "COUNTRY": "MA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "24.12",
+    "VARIABLE_COST": "2.20"
+  },
+  {
+    "COUNTRY": "MA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "35.69",
+    "VARIABLE_COST": "2.57"
+  },
+  {
+    "COUNTRY": "MC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.30",
+    "VARIABLE_COST": "1.51"
+  },
+  {
+    "COUNTRY": "MC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "16.10",
+    "VARIABLE_COST": "1.14"
+  },
+  {
+    "COUNTRY": "MC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.81",
+    "VARIABLE_COST": "1.89"
+  },
+  {
+    "COUNTRY": "MD",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "28.67",
+    "VARIABLE_COST": "2.09"
+  },
+  {
+    "COUNTRY": "MD",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "35.78",
+    "VARIABLE_COST": "0.49"
+  },
+  {
+    "COUNTRY": "MD",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "37.62",
+    "VARIABLE_COST": "2.39"
+  },
+  {
+    "COUNTRY": "MG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "0.96",
+    "VARIABLE_COST": "1.19"
+  },
+  {
+    "COUNTRY": "MG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.79",
+    "VARIABLE_COST": "0.18"
+  },
+  {
+    "COUNTRY": "MG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.46",
+    "VARIABLE_COST": "2.25"
+  },
+  {
+    "COUNTRY": "MH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "37.77",
+    "VARIABLE_COST": "2.24"
+  },
+  {
+    "COUNTRY": "MH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "3.26",
+    "VARIABLE_COST": "1.66"
+  },
+  {
+    "COUNTRY": "MH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "2.14",
+    "VARIABLE_COST": "0.93"
+  },
+  {
+    "COUNTRY": "MK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.45",
+    "VARIABLE_COST": "0.38"
+  },
+  {
+    "COUNTRY": "MK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "11.72",
+    "VARIABLE_COST": "1.05"
+  },
+  {
+    "COUNTRY": "MK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "19.75",
+    "VARIABLE_COST": "0.33"
+  },
+  {
+    "COUNTRY": "ML",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.84",
+    "VARIABLE_COST": "1.88"
+  },
+  {
+    "COUNTRY": "ML",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "16.67",
+    "VARIABLE_COST": "0.18"
+  },
+  {
+    "COUNTRY": "ML",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.63",
+    "VARIABLE_COST": "1.43"
+  },
+  {
+    "COUNTRY": "MM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "39.81",
+    "VARIABLE_COST": "1.80"
+  },
+  {
+    "COUNTRY": "MM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "25.88",
+    "VARIABLE_COST": "2.33"
+  },
+  {
+    "COUNTRY": "MM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "26.02",
+    "VARIABLE_COST": "1.65"
+  },
+  {
+    "COUNTRY": "MN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "3.25",
+    "VARIABLE_COST": "2.92"
+  },
+  {
+    "COUNTRY": "MN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "33.46",
+    "VARIABLE_COST": "0.23"
+  },
+  {
+    "COUNTRY": "MN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.68",
+    "VARIABLE_COST": "2.68"
+  },
+  {
+    "COUNTRY": "MO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.57",
+    "VARIABLE_COST": "2.42"
+  },
+  {
+    "COUNTRY": "MO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "8.10",
+    "VARIABLE_COST": "1.55"
+  },
+  {
+    "COUNTRY": "MO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.49",
+    "VARIABLE_COST": "1.80"
+  },
+  {
+    "COUNTRY": "MP",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.63",
+    "VARIABLE_COST": "1.39"
+  },
+  {
+    "COUNTRY": "MP",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.84",
+    "VARIABLE_COST": "1.44"
+  },
+  {
+    "COUNTRY": "MP",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "29.04",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "MQ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.62",
+    "VARIABLE_COST": "0.39"
+  },
+  {
+    "COUNTRY": "MQ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.34",
+    "VARIABLE_COST": "2.81"
+  },
+  {
+    "COUNTRY": "MQ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.66",
+    "VARIABLE_COST": "2.17"
+  },
+  {
+    "COUNTRY": "MR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "1.52",
+    "VARIABLE_COST": "2.77"
+  },
+  {
+    "COUNTRY": "MR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "8.69",
+    "VARIABLE_COST": "2.02"
+  },
+  {
+    "COUNTRY": "MR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.81",
+    "VARIABLE_COST": "0.08"
+  },
+  {
+    "COUNTRY": "MS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "21.46",
+    "VARIABLE_COST": "0.99"
+  },
+  {
+    "COUNTRY": "MS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.17",
+    "VARIABLE_COST": "0.94"
+  },
+  {
+    "COUNTRY": "MS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "37.52",
+    "VARIABLE_COST": "0.04"
+  },
+  {
+    "COUNTRY": "MT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.98",
+    "VARIABLE_COST": "1.82"
+  },
+  {
+    "COUNTRY": "MT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "3.13",
+    "VARIABLE_COST": "1.27"
+  },
+  {
+    "COUNTRY": "MT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "4.09",
+    "VARIABLE_COST": "2.84"
+  },
+  {
+    "COUNTRY": "MU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "22.78",
+    "VARIABLE_COST": "1.74"
+  },
+  {
+    "COUNTRY": "MU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.56",
+    "VARIABLE_COST": "0.51"
+  },
+  {
+    "COUNTRY": "MU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.53",
+    "VARIABLE_COST": "1.20"
+  },
+  {
+    "COUNTRY": "MV",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.37",
+    "VARIABLE_COST": "1.71"
+  },
+  {
+    "COUNTRY": "MV",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "23.82",
+    "VARIABLE_COST": "2.20"
+  },
+  {
+    "COUNTRY": "MV",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "19.21",
+    "VARIABLE_COST": "2.22"
+  },
+  {
+    "COUNTRY": "MW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "33.22",
+    "VARIABLE_COST": "0.80"
+  },
+  {
+    "COUNTRY": "MW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "28.30",
+    "VARIABLE_COST": "1.90"
+  },
+  {
+    "COUNTRY": "MW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.63",
+    "VARIABLE_COST": "0.73"
+  },
+  {
+    "COUNTRY": "MX",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "38.55",
+    "VARIABLE_COST": "0.74"
+  },
+  {
+    "COUNTRY": "MX",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.59",
+    "VARIABLE_COST": "0.06"
+  },
+  {
+    "COUNTRY": "MX",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "9.73",
+    "VARIABLE_COST": "1.00"
+  },
+  {
+    "COUNTRY": "MY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "30.73",
+    "VARIABLE_COST": "1.45"
+  },
+  {
+    "COUNTRY": "MY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "39.12",
+    "VARIABLE_COST": "0.84"
+  },
+  {
+    "COUNTRY": "MY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "38.55",
+    "VARIABLE_COST": "1.00"
+  },
+  {
+    "COUNTRY": "MZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "8.44",
+    "VARIABLE_COST": "0.31"
+  },
+  {
+    "COUNTRY": "MZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "23.81",
+    "VARIABLE_COST": "1.35"
+  },
+  {
+    "COUNTRY": "MZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "25.20",
+    "VARIABLE_COST": "2.30"
+  },
+  {
+    "COUNTRY": "NA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "26.20",
+    "VARIABLE_COST": "0.54"
+  },
+  {
+    "COUNTRY": "NA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "37.94",
+    "VARIABLE_COST": "0.93"
+  },
+  {
+    "COUNTRY": "NA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.76",
+    "VARIABLE_COST": "0.62"
+  },
+  {
+    "COUNTRY": "NC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "16.92",
+    "VARIABLE_COST": "1.51"
+  },
+  {
+    "COUNTRY": "NC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.36",
+    "VARIABLE_COST": "1.34"
+  },
+  {
+    "COUNTRY": "NC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.76",
+    "VARIABLE_COST": "1.00"
+  },
+  {
+    "COUNTRY": "NE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "13.06",
+    "VARIABLE_COST": "0.94"
+  },
+  {
+    "COUNTRY": "NE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "37.72",
+    "VARIABLE_COST": "2.49"
+  },
+  {
+    "COUNTRY": "NE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "37.91",
+    "VARIABLE_COST": "1.76"
+  },
+  {
+    "COUNTRY": "NF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "7.59",
+    "VARIABLE_COST": "2.56"
+  },
+  {
+    "COUNTRY": "NF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.21",
+    "VARIABLE_COST": "1.63"
+  },
+  {
+    "COUNTRY": "NF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "7.19",
+    "VARIABLE_COST": "0.76"
+  },
+  {
+    "COUNTRY": "NG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "16.70",
+    "VARIABLE_COST": "0.11"
+  },
+  {
+    "COUNTRY": "NG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "17.26",
+    "VARIABLE_COST": "0.76"
+  },
+  {
+    "COUNTRY": "NG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "17.98",
+    "VARIABLE_COST": "0.93"
+  },
+  {
+    "COUNTRY": "NI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "35.39",
+    "VARIABLE_COST": "1.76"
+  },
+  {
+    "COUNTRY": "NI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "2.09",
+    "VARIABLE_COST": "1.79"
+  },
+  {
+    "COUNTRY": "NI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.53",
+    "VARIABLE_COST": "2.11"
+  },
+  {
+    "COUNTRY": "NL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "26.71",
+    "VARIABLE_COST": "2.20"
+  },
+  {
+    "COUNTRY": "NL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.18",
+    "VARIABLE_COST": "2.72"
+  },
+  {
+    "COUNTRY": "NL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.52",
+    "VARIABLE_COST": "2.58"
+  },
+  {
+    "COUNTRY": "NO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "1.88",
+    "VARIABLE_COST": "1.16"
+  },
+  {
+    "COUNTRY": "NO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "13.42",
+    "VARIABLE_COST": "2.86"
+  },
+  {
+    "COUNTRY": "NO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "0.48",
+    "VARIABLE_COST": "2.83"
+  },
+  {
+    "COUNTRY": "NP",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "10.15",
+    "VARIABLE_COST": "2.08"
+  },
+  {
+    "COUNTRY": "NP",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "24.35",
+    "VARIABLE_COST": "0.51"
+  },
+  {
+    "COUNTRY": "NP",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "15.15",
+    "VARIABLE_COST": "1.95"
+  },
+  {
+    "COUNTRY": "NR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "10.24",
+    "VARIABLE_COST": "2.19"
+  },
+  {
+    "COUNTRY": "NR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "33.86",
+    "VARIABLE_COST": "1.78"
+  },
+  {
+    "COUNTRY": "NR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.75",
+    "VARIABLE_COST": "0.62"
+  },
+  {
+    "COUNTRY": "NU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.07",
+    "VARIABLE_COST": "0.13"
+  },
+  {
+    "COUNTRY": "NU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "29.08",
+    "VARIABLE_COST": "0.43"
+  },
+  {
+    "COUNTRY": "NU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "25.74",
+    "VARIABLE_COST": "1.68"
+  },
+  {
+    "COUNTRY": "NZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.13",
+    "VARIABLE_COST": "2.12"
+  },
+  {
+    "COUNTRY": "NZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.20",
+    "VARIABLE_COST": "0.81"
+  },
+  {
+    "COUNTRY": "NZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.33",
+    "VARIABLE_COST": "0.09"
+  },
+  {
+    "COUNTRY": "OM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.19",
+    "VARIABLE_COST": "1.16"
+  },
+  {
+    "COUNTRY": "OM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.43",
+    "VARIABLE_COST": "1.54"
+  },
+  {
+    "COUNTRY": "OM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "29.02",
+    "VARIABLE_COST": "2.37"
+  },
+  {
+    "COUNTRY": "PA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.92",
+    "VARIABLE_COST": "2.55"
+  },
+  {
+    "COUNTRY": "PA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "31.37",
+    "VARIABLE_COST": "1.19"
+  },
+  {
+    "COUNTRY": "PA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "20.89",
+    "VARIABLE_COST": "2.35"
+  },
+  {
+    "COUNTRY": "PE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "14.99",
+    "VARIABLE_COST": "1.44"
+  },
+  {
+    "COUNTRY": "PE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.34",
+    "VARIABLE_COST": "2.91"
+  },
+  {
+    "COUNTRY": "PE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.51",
+    "VARIABLE_COST": "1.56"
+  },
+  {
+    "COUNTRY": "PF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "23.55",
+    "VARIABLE_COST": "2.32"
+  },
+  {
+    "COUNTRY": "PF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.71",
+    "VARIABLE_COST": "2.93"
+  },
+  {
+    "COUNTRY": "PF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "7.99",
+    "VARIABLE_COST": "1.96"
+  },
+  {
+    "COUNTRY": "PG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "36.87",
+    "VARIABLE_COST": "0.19"
+  },
+  {
+    "COUNTRY": "PG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.43",
+    "VARIABLE_COST": "1.68"
+  },
+  {
+    "COUNTRY": "PG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "6.93",
+    "VARIABLE_COST": "0.72"
+  },
+  {
+    "COUNTRY": "PH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "27.81",
+    "VARIABLE_COST": "0.55"
+  },
+  {
+    "COUNTRY": "PH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "14.34",
+    "VARIABLE_COST": "1.89"
+  },
+  {
+    "COUNTRY": "PH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "2.66",
+    "VARIABLE_COST": "0.84"
+  },
+  {
+    "COUNTRY": "PK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.90",
+    "VARIABLE_COST": "1.12"
+  },
+  {
+    "COUNTRY": "PK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "31.90",
+    "VARIABLE_COST": "2.74"
+  },
+  {
+    "COUNTRY": "PK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "15.34",
+    "VARIABLE_COST": "1.94"
+  },
+  {
+    "COUNTRY": "PL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.46",
+    "VARIABLE_COST": "1.41"
+  },
+  {
+    "COUNTRY": "PL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "34.16",
+    "VARIABLE_COST": "0.15"
+  },
+  {
+    "COUNTRY": "PL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "13.86",
+    "VARIABLE_COST": "0.56"
+  },
+  {
+    "COUNTRY": "PM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "37.28",
+    "VARIABLE_COST": "0.93"
+  },
+  {
+    "COUNTRY": "PM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "31.04",
+    "VARIABLE_COST": "2.83"
+  },
+  {
+    "COUNTRY": "PM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "37.04",
+    "VARIABLE_COST": "0.80"
+  },
+  {
+    "COUNTRY": "PN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.99",
+    "VARIABLE_COST": "2.62"
+  },
+  {
+    "COUNTRY": "PN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "23.43",
+    "VARIABLE_COST": "1.84"
+  },
+  {
+    "COUNTRY": "PN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "30.98",
+    "VARIABLE_COST": "1.45"
+  },
+  {
+    "COUNTRY": "PR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "16.24",
+    "VARIABLE_COST": "2.66"
+  },
+  {
+    "COUNTRY": "PR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "10.16",
+    "VARIABLE_COST": "2.60"
+  },
+  {
+    "COUNTRY": "PR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.65",
+    "VARIABLE_COST": "1.48"
+  },
+  {
+    "COUNTRY": "PS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "23.01",
+    "VARIABLE_COST": "0.19"
+  },
+  {
+    "COUNTRY": "PS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "0.70",
+    "VARIABLE_COST": "1.68"
+  },
+  {
+    "COUNTRY": "PS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "27.42",
+    "VARIABLE_COST": "2.73"
+  },
+  {
+    "COUNTRY": "PT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.23",
+    "VARIABLE_COST": "0.21"
+  },
+  {
+    "COUNTRY": "PT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "33.48",
+    "VARIABLE_COST": "1.02"
+  },
+  {
+    "COUNTRY": "PT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "27.80",
+    "VARIABLE_COST": "2.36"
+  },
+  {
+    "COUNTRY": "PW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "27.78",
+    "VARIABLE_COST": "2.85"
+  },
+  {
+    "COUNTRY": "PW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.46",
+    "VARIABLE_COST": "2.46"
+  },
+  {
+    "COUNTRY": "PW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.68",
+    "VARIABLE_COST": "0.12"
+  },
+  {
+    "COUNTRY": "PY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "26.36",
+    "VARIABLE_COST": "1.86"
+  },
+  {
+    "COUNTRY": "PY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "24.33",
+    "VARIABLE_COST": "1.04"
+  },
+  {
+    "COUNTRY": "PY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "26.90",
+    "VARIABLE_COST": "2.48"
+  },
+  {
+    "COUNTRY": "QA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "27.34",
+    "VARIABLE_COST": "2.13"
+  },
+  {
+    "COUNTRY": "QA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "11.92",
+    "VARIABLE_COST": "0.74"
+  },
+  {
+    "COUNTRY": "QA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.32",
+    "VARIABLE_COST": "1.53"
+  },
+  {
+    "COUNTRY": "RE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "9.34",
+    "VARIABLE_COST": "2.67"
+  },
+  {
+    "COUNTRY": "RE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "29.15",
+    "VARIABLE_COST": "0.41"
+  },
+  {
+    "COUNTRY": "RE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.03",
+    "VARIABLE_COST": "0.98"
+  },
+  {
+    "COUNTRY": "RO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "39.64",
+    "VARIABLE_COST": "0.31"
+  },
+  {
+    "COUNTRY": "RO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "26.21",
+    "VARIABLE_COST": "1.73"
+  },
+  {
+    "COUNTRY": "RO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "10.16",
+    "VARIABLE_COST": "0.32"
+  },
+  {
+    "COUNTRY": "RU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "3.20",
+    "VARIABLE_COST": "2.21"
+  },
+  {
+    "COUNTRY": "RU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.35",
+    "VARIABLE_COST": "2.29"
+  },
+  {
+    "COUNTRY": "RU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "30.04",
+    "VARIABLE_COST": "1.13"
+  },
+  {
+    "COUNTRY": "RW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "29.67",
+    "VARIABLE_COST": "2.70"
+  },
+  {
+    "COUNTRY": "RW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "16.04",
+    "VARIABLE_COST": "0.86"
+  },
+  {
+    "COUNTRY": "RW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "7.30",
+    "VARIABLE_COST": "2.50"
+  },
+  {
+    "COUNTRY": "SA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "25.43",
+    "VARIABLE_COST": "0.34"
+  },
+  {
+    "COUNTRY": "SA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "34.68",
+    "VARIABLE_COST": "2.69"
+  },
+  {
+    "COUNTRY": "SA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.02",
+    "VARIABLE_COST": "2.65"
+  },
+  {
+    "COUNTRY": "SB",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.19",
+    "VARIABLE_COST": "1.56"
+  },
+  {
+    "COUNTRY": "SB",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "34.52",
+    "VARIABLE_COST": "2.52"
+  },
+  {
+    "COUNTRY": "SB",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.64",
+    "VARIABLE_COST": "0.47"
+  },
+  {
+    "COUNTRY": "SC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "12.38",
+    "VARIABLE_COST": "1.05"
+  },
+  {
+    "COUNTRY": "SC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.52",
+    "VARIABLE_COST": "1.36"
+  },
+  {
+    "COUNTRY": "SC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "21.95",
+    "VARIABLE_COST": "2.03"
+  },
+  {
+    "COUNTRY": "SD",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.66",
+    "VARIABLE_COST": "2.03"
+  },
+  {
+    "COUNTRY": "SD",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "12.79",
+    "VARIABLE_COST": "1.83"
+  },
+  {
+    "COUNTRY": "SD",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "31.45",
+    "VARIABLE_COST": "2.06"
+  },
+  {
+    "COUNTRY": "SE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "31.21",
+    "VARIABLE_COST": "2.33"
+  },
+  {
+    "COUNTRY": "SE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.93",
+    "VARIABLE_COST": "1.72"
+  },
+  {
+    "COUNTRY": "SE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "1.91",
+    "VARIABLE_COST": "2.08"
+  },
+  {
+    "COUNTRY": "SG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.91",
+    "VARIABLE_COST": "2.80"
+  },
+  {
+    "COUNTRY": "SG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "20.75",
+    "VARIABLE_COST": "2.74"
+  },
+  {
+    "COUNTRY": "SG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "10.22",
+    "VARIABLE_COST": "0.47"
+  },
+  {
+    "COUNTRY": "SH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "27.84",
+    "VARIABLE_COST": "2.27"
+  },
+  {
+    "COUNTRY": "SH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "35.88",
+    "VARIABLE_COST": "0.40"
+  },
+  {
+    "COUNTRY": "SH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "10.93",
+    "VARIABLE_COST": "0.18"
+  },
+  {
+    "COUNTRY": "SI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "8.54",
+    "VARIABLE_COST": "2.35"
+  },
+  {
+    "COUNTRY": "SI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "6.31",
+    "VARIABLE_COST": "0.24"
+  },
+  {
+    "COUNTRY": "SI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "28.94",
+    "VARIABLE_COST": "1.18"
+  },
+  {
+    "COUNTRY": "SJ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "17.66",
+    "VARIABLE_COST": "2.42"
+  },
+  {
+    "COUNTRY": "SJ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "2.39",
+    "VARIABLE_COST": "2.05"
+  },
+  {
+    "COUNTRY": "SJ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "8.08",
+    "VARIABLE_COST": "2.65"
+  },
+  {
+    "COUNTRY": "SK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "22.02",
+    "VARIABLE_COST": "2.06"
+  },
+  {
+    "COUNTRY": "SK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "14.74",
+    "VARIABLE_COST": "1.51"
+  },
+  {
+    "COUNTRY": "SK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "36.27",
+    "VARIABLE_COST": "2.47"
+  },
+  {
+    "COUNTRY": "SL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "14.40",
+    "VARIABLE_COST": "0.64"
+  },
+  {
+    "COUNTRY": "SL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "37.88",
+    "VARIABLE_COST": "1.60"
+  },
+  {
+    "COUNTRY": "SL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.20",
+    "VARIABLE_COST": "2.87"
+  },
+  {
+    "COUNTRY": "SM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "2.55",
+    "VARIABLE_COST": "1.44"
+  },
+  {
+    "COUNTRY": "SM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "16.55",
+    "VARIABLE_COST": "0.93"
+  },
+  {
+    "COUNTRY": "SM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "7.01",
+    "VARIABLE_COST": "0.33"
+  },
+  {
+    "COUNTRY": "SN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.34",
+    "VARIABLE_COST": "0.40"
+  },
+  {
+    "COUNTRY": "SN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "32.02",
+    "VARIABLE_COST": "1.19"
+  },
+  {
+    "COUNTRY": "SN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "30.92",
+    "VARIABLE_COST": "2.51"
+  },
+  {
+    "COUNTRY": "SO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "1.25",
+    "VARIABLE_COST": "2.43"
+  },
+  {
+    "COUNTRY": "SO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "17.06",
+    "VARIABLE_COST": "0.37"
+  },
+  {
+    "COUNTRY": "SO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.47",
+    "VARIABLE_COST": "1.66"
+  },
+  {
+    "COUNTRY": "SR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.54",
+    "VARIABLE_COST": "1.44"
+  },
+  {
+    "COUNTRY": "SR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.16",
+    "VARIABLE_COST": "1.76"
+  },
+  {
+    "COUNTRY": "SR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.57",
+    "VARIABLE_COST": "1.55"
+  },
+  {
+    "COUNTRY": "ST",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.15",
+    "VARIABLE_COST": "1.36"
+  },
+  {
+    "COUNTRY": "ST",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "37.01",
+    "VARIABLE_COST": "2.81"
+  },
+  {
+    "COUNTRY": "ST",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.81",
+    "VARIABLE_COST": "1.39"
+  },
+  {
+    "COUNTRY": "SV",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "29.03",
+    "VARIABLE_COST": "2.72"
+  },
+  {
+    "COUNTRY": "SV",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "27.80",
+    "VARIABLE_COST": "2.28"
+  },
+  {
+    "COUNTRY": "SV",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "37.32",
+    "VARIABLE_COST": "2.65"
+  },
+  {
+    "COUNTRY": "SY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "0.72",
+    "VARIABLE_COST": "0.34"
+  },
+  {
+    "COUNTRY": "SY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "10.37",
+    "VARIABLE_COST": "1.99"
+  },
+  {
+    "COUNTRY": "SY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "37.86",
+    "VARIABLE_COST": "1.96"
+  },
+  {
+    "COUNTRY": "SZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "30.34",
+    "VARIABLE_COST": "1.28"
+  },
+  {
+    "COUNTRY": "SZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "31.74",
+    "VARIABLE_COST": "0.60"
+  },
+  {
+    "COUNTRY": "SZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.78",
+    "VARIABLE_COST": "0.16"
+  },
+  {
+    "COUNTRY": "TC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "22.51",
+    "VARIABLE_COST": "1.93"
+  },
+  {
+    "COUNTRY": "TC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.35",
+    "VARIABLE_COST": "0.92"
+  },
+  {
+    "COUNTRY": "TC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.04",
+    "VARIABLE_COST": "2.43"
+  },
+  {
+    "COUNTRY": "TD",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "28.20",
+    "VARIABLE_COST": "2.83"
+  },
+  {
+    "COUNTRY": "TD",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "27.61",
+    "VARIABLE_COST": "0.67"
+  },
+  {
+    "COUNTRY": "TD",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.65",
+    "VARIABLE_COST": "1.32"
+  },
+  {
+    "COUNTRY": "TF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.81",
+    "VARIABLE_COST": "0.72"
+  },
+  {
+    "COUNTRY": "TF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "37.75",
+    "VARIABLE_COST": "2.17"
+  },
+  {
+    "COUNTRY": "TF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "20.93",
+    "VARIABLE_COST": "1.15"
+  },
+  {
+    "COUNTRY": "TG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "29.08",
+    "VARIABLE_COST": "0.40"
+  },
+  {
+    "COUNTRY": "TG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.69",
+    "VARIABLE_COST": "0.57"
+  },
+  {
+    "COUNTRY": "TG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "8.66",
+    "VARIABLE_COST": "0.78"
+  },
+  {
+    "COUNTRY": "TH",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.62",
+    "VARIABLE_COST": "0.14"
+  },
+  {
+    "COUNTRY": "TH",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "7.15",
+    "VARIABLE_COST": "2.91"
+  },
+  {
+    "COUNTRY": "TH",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.02",
+    "VARIABLE_COST": "3.00"
+  },
+  {
+    "COUNTRY": "TJ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "4.56",
+    "VARIABLE_COST": "1.35"
+  },
+  {
+    "COUNTRY": "TJ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.13",
+    "VARIABLE_COST": "2.09"
+  },
+  {
+    "COUNTRY": "TJ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "21.03",
+    "VARIABLE_COST": "0.37"
+  },
+  {
+    "COUNTRY": "TK",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.54",
+    "VARIABLE_COST": "2.45"
+  },
+  {
+    "COUNTRY": "TK",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.27",
+    "VARIABLE_COST": "0.56"
+  },
+  {
+    "COUNTRY": "TK",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "14.49",
+    "VARIABLE_COST": "1.68"
+  },
+  {
+    "COUNTRY": "TL",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "18.53",
+    "VARIABLE_COST": "0.53"
+  },
+  {
+    "COUNTRY": "TL",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "34.09",
+    "VARIABLE_COST": "1.73"
+  },
+  {
+    "COUNTRY": "TL",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.45",
+    "VARIABLE_COST": "1.55"
+  },
+  {
+    "COUNTRY": "TM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "8.81",
+    "VARIABLE_COST": "2.32"
+  },
+  {
+    "COUNTRY": "TM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.33",
+    "VARIABLE_COST": "0.21"
+  },
+  {
+    "COUNTRY": "TM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "28.12",
+    "VARIABLE_COST": "1.76"
+  },
+  {
+    "COUNTRY": "TN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "9.68",
+    "VARIABLE_COST": "0.87"
+  },
+  {
+    "COUNTRY": "TN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "38.89",
+    "VARIABLE_COST": "1.65"
+  },
+  {
+    "COUNTRY": "TN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "14.13",
+    "VARIABLE_COST": "1.95"
+  },
+  {
+    "COUNTRY": "TO",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "23.14",
+    "VARIABLE_COST": "2.98"
+  },
+  {
+    "COUNTRY": "TO",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "3.89",
+    "VARIABLE_COST": "2.39"
+  },
+  {
+    "COUNTRY": "TO",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "28.45",
+    "VARIABLE_COST": "0.52"
+  },
+  {
+    "COUNTRY": "TR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "7.92",
+    "VARIABLE_COST": "0.47"
+  },
+  {
+    "COUNTRY": "TR",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "31.80",
+    "VARIABLE_COST": "2.33"
+  },
+  {
+    "COUNTRY": "TR",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "25.44",
+    "VARIABLE_COST": "1.55"
+  },
+  {
+    "COUNTRY": "TT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "5.90",
+    "VARIABLE_COST": "0.25"
+  },
+  {
+    "COUNTRY": "TT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "2.24",
+    "VARIABLE_COST": "0.83"
+  },
+  {
+    "COUNTRY": "TT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "13.50",
+    "VARIABLE_COST": "2.99"
+  },
+  {
+    "COUNTRY": "TV",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "37.59",
+    "VARIABLE_COST": "0.36"
+  },
+  {
+    "COUNTRY": "TV",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "30.62",
+    "VARIABLE_COST": "0.14"
+  },
+  {
+    "COUNTRY": "TV",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "30.29",
+    "VARIABLE_COST": "2.67"
+  },
+  {
+    "COUNTRY": "TW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.31",
+    "VARIABLE_COST": "2.28"
+  },
+  {
+    "COUNTRY": "TW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "32.66",
+    "VARIABLE_COST": "1.28"
+  },
+  {
+    "COUNTRY": "TW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "24.74",
+    "VARIABLE_COST": "0.21"
+  },
+  {
+    "COUNTRY": "TZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.19",
+    "VARIABLE_COST": "2.17"
+  },
+  {
+    "COUNTRY": "TZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "3.24",
+    "VARIABLE_COST": "0.82"
+  },
+  {
+    "COUNTRY": "TZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "29.25",
+    "VARIABLE_COST": "2.95"
+  },
+  {
+    "COUNTRY": "UA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "23.86",
+    "VARIABLE_COST": "0.69"
+  },
+  {
+    "COUNTRY": "UA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "8.31",
+    "VARIABLE_COST": "1.29"
+  },
+  {
+    "COUNTRY": "UA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "39.44",
+    "VARIABLE_COST": "2.04"
+  },
+  {
+    "COUNTRY": "UG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.16",
+    "VARIABLE_COST": "1.43"
+  },
+  {
+    "COUNTRY": "UG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "1.01",
+    "VARIABLE_COST": "0.76"
+  },
+  {
+    "COUNTRY": "UG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "22.41",
+    "VARIABLE_COST": "0.59"
+  },
+  {
+    "COUNTRY": "UM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.00",
+    "VARIABLE_COST": "0.23"
+  },
+  {
+    "COUNTRY": "UM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.52",
+    "VARIABLE_COST": "2.72"
+  },
+  {
+    "COUNTRY": "UM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "10.21",
+    "VARIABLE_COST": "2.16"
+  },
+  {
+    "COUNTRY": "US",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "1.20",
+    "VARIABLE_COST": "2.07"
+  },
+  {
+    "COUNTRY": "US",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "17.18",
+    "VARIABLE_COST": "0.30"
+  },
+  {
+    "COUNTRY": "US",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "7.57",
+    "VARIABLE_COST": "1.65"
+  },
+  {
+    "COUNTRY": "UY",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "34.56",
+    "VARIABLE_COST": "0.85"
+  },
+  {
+    "COUNTRY": "UY",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "6.63",
+    "VARIABLE_COST": "1.96"
+  },
+  {
+    "COUNTRY": "UY",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.32",
+    "VARIABLE_COST": "0.53"
+  },
+  {
+    "COUNTRY": "UZ",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "36.33",
+    "VARIABLE_COST": "2.96"
+  },
+  {
+    "COUNTRY": "UZ",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.97",
+    "VARIABLE_COST": "1.68"
+  },
+  {
+    "COUNTRY": "UZ",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.61",
+    "VARIABLE_COST": "2.37"
+  },
+  {
+    "COUNTRY": "VA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "17.44",
+    "VARIABLE_COST": "2.49"
+  },
+  {
+    "COUNTRY": "VA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "23.68",
+    "VARIABLE_COST": "0.59"
+  },
+  {
+    "COUNTRY": "VA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "9.20",
+    "VARIABLE_COST": "0.38"
+  },
+  {
+    "COUNTRY": "VC",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.42",
+    "VARIABLE_COST": "1.32"
+  },
+  {
+    "COUNTRY": "VC",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "21.56",
+    "VARIABLE_COST": "1.44"
+  },
+  {
+    "COUNTRY": "VC",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "34.10",
+    "VARIABLE_COST": "0.92"
+  },
+  {
+    "COUNTRY": "VE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "28.46",
+    "VARIABLE_COST": "0.53"
+  },
+  {
+    "COUNTRY": "VE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "39.97",
+    "VARIABLE_COST": "2.12"
+  },
+  {
+    "COUNTRY": "VE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "20.62",
+    "VARIABLE_COST": "0.91"
+  },
+  {
+    "COUNTRY": "VG",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "22.63",
+    "VARIABLE_COST": "2.01"
+  },
+  {
+    "COUNTRY": "VG",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "6.64",
+    "VARIABLE_COST": "2.38"
+  },
+  {
+    "COUNTRY": "VG",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "18.55",
+    "VARIABLE_COST": "1.45"
+  },
+  {
+    "COUNTRY": "VI",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "19.97",
+    "VARIABLE_COST": "0.80"
+  },
+  {
+    "COUNTRY": "VI",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "12.51",
+    "VARIABLE_COST": "1.30"
+  },
+  {
+    "COUNTRY": "VI",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "3.91",
+    "VARIABLE_COST": "2.84"
+  },
+  {
+    "COUNTRY": "VN",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "17.50",
+    "VARIABLE_COST": "1.73"
+  },
+  {
+    "COUNTRY": "VN",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.21",
+    "VARIABLE_COST": "0.53"
+  },
+  {
+    "COUNTRY": "VN",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.21",
+    "VARIABLE_COST": "0.02"
+  },
+  {
+    "COUNTRY": "VU",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.28",
+    "VARIABLE_COST": "0.25"
+  },
+  {
+    "COUNTRY": "VU",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "15.06",
+    "VARIABLE_COST": "1.19"
+  },
+  {
+    "COUNTRY": "VU",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.49",
+    "VARIABLE_COST": "2.96"
+  },
+  {
+    "COUNTRY": "WF",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "15.17",
+    "VARIABLE_COST": "2.18"
+  },
+  {
+    "COUNTRY": "WF",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "13.47",
+    "VARIABLE_COST": "1.36"
+  },
+  {
+    "COUNTRY": "WF",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "15.13",
+    "VARIABLE_COST": "2.30"
+  },
+  {
+    "COUNTRY": "WS",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.89",
+    "VARIABLE_COST": "0.57"
+  },
+  {
+    "COUNTRY": "WS",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "9.15",
+    "VARIABLE_COST": "2.52"
+  },
+  {
+    "COUNTRY": "WS",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "17.82",
+    "VARIABLE_COST": "2.44"
+  },
+  {
+    "COUNTRY": "YE",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "24.17",
+    "VARIABLE_COST": "2.66"
+  },
+  {
+    "COUNTRY": "YE",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "34.96",
+    "VARIABLE_COST": "1.60"
+  },
+  {
+    "COUNTRY": "YE",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "16.13",
+    "VARIABLE_COST": "0.56"
+  },
+  {
+    "COUNTRY": "YT",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "13.20",
+    "VARIABLE_COST": "1.63"
+  },
+  {
+    "COUNTRY": "YT",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "22.26",
+    "VARIABLE_COST": "1.89"
+  },
+  {
+    "COUNTRY": "YT",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "15.90",
+    "VARIABLE_COST": "1.50"
+  },
+  {
+    "COUNTRY": "ZA",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "9.25",
+    "VARIABLE_COST": "0.36"
+  },
+  {
+    "COUNTRY": "ZA",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "18.87",
+    "VARIABLE_COST": "2.35"
+  },
+  {
+    "COUNTRY": "ZA",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "11.62",
+    "VARIABLE_COST": "2.74"
+  },
+  {
+    "COUNTRY": "ZM",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.72",
+    "VARIABLE_COST": "0.11"
+  },
+  {
+    "COUNTRY": "ZM",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "20.70",
+    "VARIABLE_COST": "2.33"
+  },
+  {
+    "COUNTRY": "ZM",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "32.17",
+    "VARIABLE_COST": "2.68"
+  },
+  {
+    "COUNTRY": "ZW",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "3.05",
+    "VARIABLE_COST": "2.67"
+  },
+  {
+    "COUNTRY": "ZW",
+    "COMMODITY": "peach",
+    "FIXED_OVERHEAD": "36.04",
+    "VARIABLE_COST": "2.90"
+  },
+  {
+    "COUNTRY": "ZW",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "33.77",
+    "VARIABLE_COST": "1.04"
+  }
+]
