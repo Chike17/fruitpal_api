@@ -26,17 +26,17 @@
 
 # ENDPOINTS
 
-1. Retrieve all data for a commodity in all countries
-   GET REQUEST
+1. Retrieve all data for a commodity in all countries\
+   GET REQUEST\
    URL: localhost:8080/api/commodity_info/commodity/mango/tons/405/price/53
 
-2. Retrieve all data for a commodity in one country
-   GET REQUEST
+2. Retrieve all data for a commodity in one country\
+   GET REQUEST\
    URL: localhost:8080/api/commodity_info/country_filter/commodity/peach/tons/405/price/53/country/canada
 
-3. Retrieve all data for a commodity in specific countries
-   POST REQUEST
-   URL: localhost:8080/api/commodity_info/countries_filter/commodity/pineapple/tons/405/price/53
+3. Retrieve all data for a commodity in specific countries\
+   POST REQUEST\
+   URL: localhost:8080/api/commodity_info/countries_filter/commodity/pineapple/tons/405/price/53/
    QUERY INPUT: {moreCountries: ['australia', 'nigeria', 'zimbabwe']}
 
 # EXAMPLES WITH AXIOS
@@ -44,7 +44,7 @@
 import axios from 'axios';
 axios.defaults.baseURL = 'http://localhost:8080/api/commodity_info';
 
-1. Retrieve all country data
+1. Retrieve all country data\
 
 axios.get('/commodity/mango/tons/405/price/53')
 .then((response) => { console.log(response.data.items); })
@@ -52,7 +52,7 @@ axios.get('/commodity/mango/tons/405/price/53')
 
 other response data is located in the data key on the response object
 
-2. Retrieve one country's commodity data
+2. Retrieve one country's commodity data\
 
 axios.get('/country_filter/commodity/peach/tons/405/price/53/country/canada')
 .then((response) => { console.log(response.data.items); })
@@ -60,7 +60,7 @@ axios.get('/country_filter/commodity/peach/tons/405/price/53/country/canada')
 
 other response data is located in the data key on the response object
 
-3. Retrieve commodity data for multiple countries
+3. Retrieve commodity data for multiple countries\
 
 const query = { moreCountries: ['australia', 'nigeria', 'zimbabwe']};
 
