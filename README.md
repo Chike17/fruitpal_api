@@ -36,7 +36,7 @@
 
 3. Retrieve all data for a commodity in specific countries\
    POST REQUEST\
-   URL: localhost:8080/api/commodity_info/countries_filter/commodity/pineapple/tons/405/price/53/
+   URL: localhost:8080/api/commodity_info/countries_filter/commodity/pineapple/tons/405/price/53
    QUERY INPUT: {moreCountries: ['australia', 'nigeria', 'zimbabwe']}
 
 # EXAMPLES WITH AXIOS
