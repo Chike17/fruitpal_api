@@ -50,7 +50,7 @@ axios.defaults.baseURL = 'http://localhost:8080/api/commodity_info';
    .then((response) => { console.log(response.data.items); })
    .catch(function (error) { console.log(error); });
 
-other response data is located in the data key on the response object
+   other response data is located in the data key on the response object
 
 2. Retrieve one country's commodity data
 
@@ -58,7 +58,7 @@ other response data is located in the data key on the response object
    .then((response) => { console.log(response.data.items); })
    .catch(function (error) { console.log(error); });
 
-other response data is located in the data key on the response object
+   other response data is located in the data key on the response object
 
 3. Retrieve commodity data for multiple countries
 
@@ -68,7 +68,7 @@ other response data is located in the data key on the response object
    .then((response) => { console.log(response.data.items); })
    .catch(function (error){ console.log(error); });
 
-other response data is located in the data key on the response object
+   other response data is located in the data key on the response object
 
 # NOTE
 
