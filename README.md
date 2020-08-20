@@ -39,40 +39,34 @@
    URL: localhost:8080/api/commodity_info/countries_filter/commodity/pineapple/tons/405/price/53
    QUERY INPUT: {moreCountries: ['australia', 'nigeria', 'zimbabwe']}
 
-## EXAMPLES WITH AXIOS
+# EXAMPLES WITH AXIOS
 
 import axios from 'axios';
 axios.defaults.baseURL = 'http://localhost:8080/api/commodity_info';
 
 1. Retrieve all country data
 
---
 axios.get('/commodity/mango/tons/405/price/53')
 .then((response) => { console.log(response.data.items); })
 .catch(function (error) { console.log(error); });
---
 
 other response data is located in the data key on the response object
 
 2. Retrieve one country's commodity data
 
---
 axios.get('/country_filter/commodity/peach/tons/405/price/53/country/canada')
 .then((response) => { console.log(response.data.items); })
 .catch(function (error) { console.log(error); });
---
 
 other response data is located in the data key on the response object
 
 3. Retrieve commodity data for multiple countries
 
---
 const query = { moreCountries: ['australia', 'nigeria', 'zimbabwe']};
 
 axios.post('/countries_filter/commodity/pineapple/tons/405/price/53', query)
 .then((response) => { console.log(response.data.items); })
 .catch(function (error){ console.log(error); });
---
 
 other response data is located in the data key on the response object
 
